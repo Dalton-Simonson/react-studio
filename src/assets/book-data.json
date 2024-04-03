@@ -1,0 +1,97 @@
+[
+ {
+    "name": "A Tale of Two Cities",
+    "genre": "Historical Fiction", 
+    "language": "English",
+    "price": 2.99,
+    "image": "images/A Tale of Two Cities.png"
+ },
+
+ {
+    "name": "The Little Prince",
+    "genre": "Fantasy", 
+    "language": "French",
+    "price": 2.99,
+    "image": "images/The Little Prince.png"
+ },
+
+ {
+    "name": "The Alchemist",
+    "genre": "Fantasy", 
+    "language": "Portuguese",
+    "price": 2.99,
+    "image": "images/The Alchemist.png"
+ },
+
+ {
+    "name": "Harry Potter",
+    "genre": "Fantasy", 
+    "language": "English",
+    "price": 2.99,
+    "image": "images/Harry Potter and the Philosopher's Stone.png"
+ },
+
+ {
+    "name": "And Then There Were None",
+    "genre": "Mystery", 
+    "language": "English",
+    "price": 2.99,
+    "image": "images/And Then There Were None.png"
+ },
+
+ {
+    "name": "Dream of the Red Chamber",
+    "genre": "Family Saga", 
+    "language": "Chinese",
+    "price": 2.99,
+    "image": "images/Dream of the Red Chamber.png"
+ },
+
+ {
+    "name": "The Hobbit",
+    "genre": "Fantasy", 
+    "language": "English",
+    "price": 2.99,
+    "image": "images/The Hobbit.png"
+ },
+
+ {
+    "name": "The Da Vinci Code",
+    "genre": "Mystery", 
+    "language": "English ",
+    "price": 2.99,
+    "image": "images/The Da Vinci Code.png"
+ },
+
+ {
+    "name": "The Catcher in the Rye",
+    "genre": "Coming-of-Age", 
+    "language": "English",
+    "price": 2.99,
+    "image": "images/The Catcher in the Rye.png"
+ },
+
+ {
+    "name": "Dune",
+    "genre": "Science Fiction", 
+    "language": "English",
+    "price": 2.99,
+    "image": "images/Dune.png"
+ },
+
+ {
+    "name": "Don Quixote",
+    "genre": "Satire", 
+    "language": "Spanish",
+    "price": 2.99,
+    "image": "images/Don Quixote.png"
+ },
+
+ {
+    "name": "The Godfather",
+    "genre": "Crime", 
+    "language": "English",
+    "price": 2.99,
+    "image": "images/The Godfather.png"
+ }
+]

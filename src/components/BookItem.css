@@ -1,0 +1,50 @@
+.BookImage{
+    max-width: 175px;
+}
+
+/* .BookItem{
+    display: flex;
+    flex-direction: column;
+    max-width: 275px;
+    height: 400px;
+
+    background-color: #F8FAE5;
+    margin: 25px;
+    border-radius: 30px;
+} */
+
+.bookCard{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    width: 275px;
+    height: 400px;
+    align-items: center;
+
+    background-color: #F8FAE5;
+    margin: 25px;
+    border-radius: 30px;
+}
+
+.bookButton{
+    width: fit-content;
+}
+
+.bookName{
+    font-family: 'Trocchi', serif;
+    font-weight: 300;
+    font-size: 22px;
+    color: #76453B;
+    margin-top: 5px;
+}
+
+.bookPrice{
+    font-family: 'Trocchi', serif;
+    font-weight: 300;
+    font-size: 22px;
+    color: #76453B;
+}
+
+.bookButton{
+    margin-bottom: 25px;
+}
