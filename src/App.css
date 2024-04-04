@@ -4,6 +4,7 @@
     display: flex;
     flex-direction: column;
     background-color: #43766C;
+    min-height: 103vh;
 }
 
 .title{
@@ -24,6 +25,7 @@
     display: flex;
     flex-direction: column;
     width: 600px;
+    justify-content: space-between;
 }
 
 .genreFilter{
@@ -77,6 +79,23 @@
     margin-top: 15px;
 }
 
+.sortingDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.sortingDropdownLabel{
+    color: #F8FAE5;
+    font-family: 'Trocchi', serif;
+    font-size: 28px;
+    align-self: center;
+}
+
+.sortingOptions{
+    width: 120px;
+}
+
 .bookCards{
     display: flex;
     justify-content: center;
@@ -84,3 +103,24 @@
     width: 100%;
     flex-wrap: wrap;
 }
+
+.cartDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.cartLabel{
+    color: #F8FAE5;
+    font-family: 'Trocchi', serif;
+    font-size: 48px;
+}
+
+
+.cartPrice{
+    color: #F8FAE5;
+    font-family: 'Trocchi', serif;
+    font-size: 32px;
+}
+

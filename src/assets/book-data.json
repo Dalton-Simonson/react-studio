@@ -1,97 +1,157 @@
 [
  {
+    "id": 1,  
     "name": "A Tale of Two Cities",
     "genre": "Historical Fiction", 
     "language": "English",
-    "price": 2.99,
-    "image": "images/A Tale of Two Cities.png"
+    "price": 12.99,
+    "image": "images/A Tale of Two Cities.png",
+    "show_language": true,
+    "show_genre": true,
+    "show_in_cart" : false,
+    "number_in_cart": 0
  },
 
  {
+    "id": 2,  
     "name": "The Little Prince",
     "genre": "Fantasy", 
     "language": "French",
-    "price": 2.99,
-    "image": "images/The Little Prince.png"
+    "price": 23.99,
+    "image": "images/The Little Prince.png",
+    "show_language": true,
+    "show_genre": true,
+    "show_in_cart" : false,
+    "number_in_cart": 0
  },
 
  {
+    "id": 3,
     "name": "The Alchemist",
     "genre": "Fantasy", 
     "language": "Portuguese",
-    "price": 2.99,
-    "image": "images/The Alchemist.png"
+    "price": 42.99,
+    "image": "images/The Alchemist.png",
+    "show_language": true,
+    "show_genre": true,
+    "show_in_cart" : false,
+    "number_in_cart": 0
  },
 
  {
+    "id": 4,
     "name": "Harry Potter",
     "genre": "Fantasy", 
     "language": "English",
-    "price": 2.99,
-    "image": "images/Harry Potter and the Philosopher's Stone.png"
+    "price": 7.99,
+    "image": "images/Harry Potter and the Philosopher's Stone.png",
+    "show_language": true,
+    "show_genre": true,
+    "show_in_cart" : false,
+    "number_in_cart": 0
  },
 
  {
+    "id": 5,
     "name": "And Then There Were None",
     "genre": "Mystery", 
     "language": "English",
-    "price": 2.99,
-    "image": "images/And Then There Were None.png"
+    "price": 11.99,
+    "image": "images/And Then There Were None.png",
+    "show_language": true,
+    "show_genre": true,
+    "show_in_cart" : false,
+    "number_in_cart": 0
  },
 
  {
+    "id": 6,
     "name": "Dream of the Red Chamber",
     "genre": "Family Saga", 
     "language": "Chinese",
-    "price": 2.99,
-    "image": "images/Dream of the Red Chamber.png"
+    "price": 88.88,
+    "image": "images/Dream of the Red Chamber.png",
+    "show_language": true,
+    "show_genre": true,
+    "show_in_cart" : false,
+    "number_in_cart": 0
  },
 
  {
+    "id": 7,
     "name": "The Hobbit",
     "genre": "Fantasy", 
     "language": "English",
-    "price": 2.99,
-    "image": "images/The Hobbit.png"
+    "price": 16.99,
+    "image": "images/The Hobbit.png",
+    "show_language": true,
+    "show_genre": true,
+    "show_in_cart" : false,
+    "number_in_cart": 0
  },
 
  {
+    "id": 8,
     "name": "The Da Vinci Code",
     "genre": "Mystery", 
     "language": "English ",
-    "price": 2.99,
-    "image": "images/The Da Vinci Code.png"
+    "price": 22.99,
+    "image": "images/The Da Vinci Code.png",
+    "show_language": true,
+    "show_genre": true,
+    "show_in_cart" : false,
+    "number_in_cart": 0
  },
 
  {
+    "id": 9,
     "name": "The Catcher in the Rye",
     "genre": "Coming-of-Age", 
     "language": "English",
-    "price": 2.99,
-    "image": "images/The Catcher in the Rye.png"
+    "price": 10.99,
+    "image": "images/The Catcher in the Rye.png",
+    "show_language": true,
+    "show_genre": true,
+    "show_in_cart" : false,
+    "number_in_cart": 0
  },
 
  {
+    "id": 10,
     "name": "Dune",
     "genre": "Science Fiction", 
     "language": "English",
-    "price": 2.99,
-    "image": "images/Dune.png"
+    "price": 24.99,
+    "image": "images/Dune.png",
+    "show_language": true,
+    "show_genre": true,
+    "show_in_cart" : false,
+    "number_in_cart": 0
  },
 
  {
+    "id": 11,
     "name": "Don Quixote",
     "genre": "Satire", 
     "language": "Spanish",
-    "price": 2.99,
-    "image": "images/Don Quixote.png"
+    "price": 23.99,
+    "image": "images/Don Quixote.png",
+    "show_language": true,
+    "show_genre": true,
+    "show_in_cart" : false,
+    "number_in_cart": 0
  },
 
  {
+    "id": 12,
     "name": "The Godfather",
     "genre": "Crime", 
     "language": "English",
-    "price": 2.99,
-    "image": "images/The Godfather.png"
+    "price": 24.99,
+    "image": "images/The Godfather.png",
+    "show_language": true,
+     "show_genre": true,
+     "show_in_cart" : false,
+     "number_in_cart": 0
  }
 ]
